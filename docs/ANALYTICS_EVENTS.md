@@ -1,0 +1,8 @@
+session_start
+level_start
+level_complete
+level_fail
+booster_used
+ad_reward_view
+ad_interstitial_show
+iap_purchase
